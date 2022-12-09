@@ -1,0 +1,6 @@
+The pipeline in the continuous integration and continuous deployment (CI/CD) is as follow:
+
+The developer will do changes to the code which is connected to gitHub which is also connected to circleci and when circleci notify
+that there is a change it will start the (CI/CD) cycle and after the success of the build and deploy steps 
+the cloud server which is AWS in our case will get the changes to the end-user.
+

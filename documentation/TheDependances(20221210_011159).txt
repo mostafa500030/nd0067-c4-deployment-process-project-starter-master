@@ -1,0 +1,19 @@
+To install the Dependencies write command: npm install
+
+The main app Dependances is:
+node.js 14.15.1
+typescript 4.2.3
+
+The main api Dependances is:
+Express 4.16.4
+sequelize 6.5.0
+
+The main frontend Dependances is:
+angular 8.2.14
+iconic 5.0.0 
+
+
+
+
+
+

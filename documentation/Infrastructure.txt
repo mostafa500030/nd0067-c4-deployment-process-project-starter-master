@@ -1,0 +1,8 @@
+For the Infrastructure of the application we have the following:
+This is a web appliction that consists of two main parts which are the backend and the frontend
+For the backeend we have the express framework for cntrolling the api of the appliction
+For the frontend we have two main frameworks which are angular and iconic
+For hosting the appliction we have the AWS cloud servcies which are:
+Elastic beanstalk for hosting the back-end
+S3 bucket for hosting the frontend
+Relational Database Service for hosting the database
